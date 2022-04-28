@@ -86,7 +86,8 @@ GEM
       thor (~> 0.19.1)
     formtastic (2.3.0)
       actionpack (>= 3.0)
-    git (1.2.8)
+    git (1.11.0)
+      rchardet (~> 1.8)
     handlebars_assets (0.17.1)
       execjs (>= 1.2.9)
       multi_json
@@ -192,6 +193,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     raindrops (0.13.0)
     rake (10.3.2)
+    rchardet (1.8.0)
     rdoc (4.1.2)
       json (~> 1.4)
     ref (1.0.5)
