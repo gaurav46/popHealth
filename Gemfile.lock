@@ -78,7 +78,7 @@ GEM
     dotenv-deployment (0.0.2)
     erubis (2.7.0)
     eventmachine (1.0.3)
-    execjs (2.2.1)
+    execjs (2.8.1)
     factory_girl (2.6.3)
       activesupport (>= 2.3.9)
     foreman (0.75.0)
@@ -242,7 +242,7 @@ GEM
       ansi
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (2.5.3)
+    uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     unicorn (4.8.3)
